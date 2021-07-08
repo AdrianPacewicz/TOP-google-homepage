@@ -1,3 +1,3 @@
-Project imitating Google's homepage.
+# TheOdinProject - Google's homepage.
 
-Basic HTML and CSS practice.
+Project imitating Google's homepage. Basic HTML and CSS practice.
